@@ -1,0 +1,202 @@
+,Country,NOC,ISO code
+0,Afghanistan,AFG,AF
+1,Albania,ALB,AL
+2,Algeria,ALG,DZ
+3,American Samoa*,ASA,AS
+4,Andorra,AND,AD
+5,Angola,ANG,AO
+6,Antigua and Barbuda,ANT,AG
+7,Argentina,ARG,AR
+8,Armenia,ARM,AM
+9,Aruba*,ARU,AW
+10,Australia,AUS,AU
+11,Austria,AUT,AT
+12,Azerbaijan,AZE,AZ
+13,Bahamas,BAH,BS
+14,Bahrain,BRN,BH
+15,Bangladesh,BAN,BD
+16,Barbados,BAR,BB
+17,Belarus,BLR,BY
+18,Belgium,BEL,BE
+19,Belize,BIZ,BZ
+20,Bermuda*,BER,BM
+21,Benin,BEN,BJ
+22,Bhutan,BHU,BT
+23,Bolivia,BOL,BO
+24,Bosnia and Herzegovina,BIH,BA
+25,Botswana,BOT,BW
+26,Brazil,BRA,BR
+27,British Virgin Islands,IVB,VG
+28,Brunei,BRU,BN
+29,Bulgaria,BUL,BG
+30,Burkina Faso,BUR,BF
+31,Burundi,BDI,BI
+32,Cambodia,CAM,KH
+33,Cameroon,CMR,CM
+34,Canada,CAN,CA
+35,Cape Verde,CPV,CV
+36,Cayman Islands*,CAY,KY
+37,Central African Republic,CAF,CF
+38,Chad,CHA,TD
+39,Chile,CHI,CL
+40,China,CHN,CN
+41,Colombia,COL,CO
+42,Comoros,COM,KM
+43,Congo,CGO,CG
+44,"Congo, Dem Rep",COD,CD
+45,Cook Islands,COK,CK
+46,Costa Rica,CRC,CR
+47,Cote d'Ivoire,CIV,CI
+48,Croatia,CRO,HR
+49,Cuba,CUB,CU
+50,Cyprus,CYP,CY
+51,Czech Republic,CZE,CZ
+52,Denmark,DEN,DK
+53,Djibouti,DJI,DJ
+54,Dominica,DMA,DM
+55,Dominican Republic,DOM,DO
+56,East Timor (Timor-Leste),TLS,TL
+57,Ecuador,ECU,EC
+58,Egypt,EGY,EG
+59,El Salvador,ESA,SV
+60,Equatorial Guinea,GEQ,GQ
+61,Eritrea,ERI,ER
+62,Estonia,EST,EE
+63,Ethiopia,ETH,ET
+64,Fiji,FIJ,FJ
+65,Finland,FIN,FI
+66,France,FRA,FR
+67,Gabon,GAB,GA
+68,Gambia,GAM,GM
+69,Georgia,GEO,GE
+70,Germany,GER,DE
+71,Ghana,GHA,GH
+72,Greece,GRE,GR
+73,Grenada,GRN,GD
+74,Guam,GUM,GU
+75,Guatemala,GUA,GT
+76,Guinea,GUI,GN
+77,Guinea-Bissau,GBS,GW
+78,Guyana,GUY,GY
+79,Haiti,HAI,HT
+80,Honduras,HON,HN
+81,Hong Kong*,HKG,HK
+82,Hungary,HUN,HU
+83,Iceland,ISL,IS
+84,India,IND,IN
+85,Indonesia,INA,ID
+86,Iran,IRI,IR
+87,Iraq,IRQ,IQ
+88,Ireland,IRL,IE
+89,Israel,ISR,IL
+90,Italy,ITA,IT
+91,Jamaica,JAM,JM
+92,Japan,JPN,JP
+93,Jordan,JOR,JO
+94,Kazakhstan,KAZ,KZ
+95,Kenya,KEN,KE
+96,"Korea, North",PRK,KP
+97,"Korea, South",KOR,KR
+98,Kuwait,KUW,KW
+99,Kyrgyzstan,KGZ,KG
+100,Laos,LAO,LA
+101,Latvia,LAT,LV
+102,Lebanon,LIB,LB
+103,Lesotho,LES,LS
+104,Liberia,LBR,LR
+105,Libya,LBA,LY
+106,Liechtenstein,LIE,LI
+107,Lithuania,LTU,LT
+108,Luxembourg,LUX,LU
+109,Macedonia,MKD,MK
+110,Madagascar,MAD,MG
+111,Malawi,MAW,MW
+112,Malaysia,MAS,MY
+113,Maldives,MDV,MV
+114,Mali,MLI,ML
+115,Malta,MLT,MT
+116,Mauritania,MTN,MR
+117,Mauritius,MRI,MU
+118,Mexico,MEX,MX
+119,Micronesia,FSM,FM
+120,Moldova,MDA,MD
+121,Monaco,MON,MC
+122,Mongolia,MGL,MN
+123,Morocco,MAR,MA
+124,Mozambique,MOZ,MZ
+125,Burma,MYA,MM
+126,Namibia,NAM,
+127,Nauru,NRU,NR
+128,Nepal,NEP,NP
+129,Netherlands,NED,NL
+130,Netherlands Antilles*,AHO,AN
+131,New Zealand,NZL,NZ
+132,Nicaragua,NCA,NI
+133,Niger,NIG,NE
+134,Nigeria,NGR,NG
+135,Norway,NOR,NO
+136,Oman,OMA,OM
+137,Pakistan,PAK,PK
+138,Palau,PLW,PW
+139,"Palestine, Occupied Territories",PLE,PS
+140,Panama,PAN,PA
+141,Papua New Guinea,PNG,PG
+142,Paraguay,PAR,PY
+143,Peru,PER,PE
+144,Philippines,PHI,PH
+145,Poland,POL,PL
+146,Portugal,POR,PT
+147,Puerto Rico*,PUR,PR
+148,Qatar,QAT,QA
+149,Romania,ROM,RO
+150,Russia,RUS,RU
+151,Rwanda,RWA,RW
+152,Saint Kitts and Nevis,SKN,KN
+153,Saint Lucia,LCA,LC
+154,Saint Vincent and the Grenadines,VIN,VC
+155,Samoa,SAM,WS
+156,San Marino,SMR,SM
+157,Sao Tome and Principe,STP,ST
+158,Saudi Arabia,KSA,SA
+159,Senegal,SEN,SN
+160,Serbia,SCG,RS
+161,Seychelles,SEY,SC
+162,Sierra Leone,SLE,SL
+163,Singapore,SIN,SG
+164,Slovakia,SVK,SK
+165,Slovenia,SLO,SI
+166,Solomon Islands,SOL,SB
+167,Somalia,SOM,SO
+168,South Africa,RSA,ZA
+169,Spain,ESP,ES
+170,Sri Lanka,SRI,LK
+171,Sudan,SUD,SD
+172,Suriname,SUR,SR
+173,Swaziland,SWZ,SZ
+174,Sweden,SWE,SE
+175,Switzerland,SUI,CH
+176,Syria,SYR,SY
+177,Taiwan,TPE,TW
+178,Tajikistan,TJK,TJ
+179,Tanzania,TAN,TZ
+180,Thailand,THA,TH
+181,Togo,TOG,TG
+182,Tonga,TGA,TO
+183,Trinidad and Tobago,TRI,TT
+184,Tunisia,TUN,TN
+185,Turkey,TUR,TR
+186,Turkmenistan,TKM,TM
+187,Uganda,UGA,UG
+188,Ukraine,UKR,UA
+189,United Arab Emirates,UAE,AE
+190,United Kingdom,GBR,GB
+191,United States,USA,US
+192,Uruguay,URU,UY
+193,Uzbekistan,UZB,UZ
+194,Vanuatu,VAN,VU
+195,Venezuela,VEN,VE
+196,Vietnam,VIE,VN
+197,Virgin Islands*,ISV,VI
+198,Yemen,YEM,YE
+199,Zambia,ZAM,ZM
+200,Zimbabwe,ZIM,ZW

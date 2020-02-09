@@ -7,9 +7,10 @@ us  = pd.read_csv('/Users/apple/desktop/meergingDataFrames/dataset/GDP/us.csv', 
 # new df: china_annual and us_annual
 china_annual = china.resample('A').last().pct_change(10).dropna()
 print(china_annual.head())
+
 us_annual = us.resample('A').last().pct_change(10).dropna()
 print(us_annual)
 
-gdp = pd.concat([china_annual, us_annual], axis=1, join='inner')
+# gdp = pd.concat([china_annual, us_annual], axis=1, join='inner')
 
 print(gdp.resample('10A').last())
